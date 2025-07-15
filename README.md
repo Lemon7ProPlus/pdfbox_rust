@@ -9,3 +9,10 @@ A pdf toolbox based on [lopdf](https://github.com/J-F-Liu/lopdf), it can merge P
 
 ## TODO
 - Add page numbers
+
+## Usage
+### Merge
+pdfbox_rust.exe merge --help
+
+### Extract titles from PDFs
+pdfbox_rust.exe extract-title --help
