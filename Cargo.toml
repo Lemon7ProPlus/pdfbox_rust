@@ -1,0 +1,9 @@
+[package]
+name = "pdfbox_rust"
+version = "1.0.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4.5.41", features = ["derive"] }
+lopdf = "0.36.0"
+walkdir = "2.5.0"
